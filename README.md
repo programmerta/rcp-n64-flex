@@ -1,7 +1,7 @@
 # N64 Cart Relocation Flex for N64HH
 A flex cable for easy relocation of the N64 cartridge slot for an N64HH build.
 
-![Top View](images/Top Picture.jpg)
+![Top View](images/top-flex-pic.png)
 
 ## Ordering Guide
 > [!IMPORTANT]
@@ -12,9 +12,9 @@ Under "PCB Remark", add the following message:
 > [!NOTE]
 > Please apply the stiffener to the bottom of the flex as shown in the stiffener.gbr file. The circles on that layer should be holes in the stiffener as well.
 
-It is very important that the stiffener is on the BOTTOM of the flex, and not the top. The silkscreen on the flex mentions this as well.
+It is very important that the stiffener is on the BOTTOM of the flex, and not the top. The silkscreen on the flex mentions this as well. The stiffener.gbr is just the renamed user.drawing layer that specifies the outline of the stiffener.
 
-![JLCPCB Order View](images/jlcpcb-order.jpg)
+![JLCPCB Order View](images/jlcpcb-order.png)
 
 ## Special Thanks
 I want to give a special thanks to the following individuals who helped me greatly with making this flex!
