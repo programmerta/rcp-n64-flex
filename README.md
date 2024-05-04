@@ -1,5 +1,5 @@
 # N64 Cart Relocation Flex for N64HH
-A flex cable for easy relocation of the N64 cartridge slot for an N64HH build.
+A flex cable for easy relocation of the N64 cartridge slot for an N64HH build. Requires KiCad 8.99 (the nightly build) to view.
 
 ![Top View](images/top-flex-pic.png)
 
